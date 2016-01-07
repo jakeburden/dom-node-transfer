@@ -2,7 +2,7 @@
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-transfer one dom node into another, then delete the duplicated dom node, the call a callback.
+transfer one dom node into another, then delete the duplicated dom node, then call a callback.
 
 ```npm install dom-node-transfer -S```
 
