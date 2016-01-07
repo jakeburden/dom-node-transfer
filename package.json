@@ -1,0 +1,19 @@
+{
+  "name": "dom-node-transfer",
+  "version": "1.0.0",
+  "description": "transfers one dom node into another, then deletes the duplicated dom node, then calls a callback.",
+  "main": "index.js",
+  "keywords": [
+    "dom",
+    "node",
+    "transfer",
+    "clone"
+  ],
+  "author": "Jacob Burden",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jekrb/dom-node-transfer.git"
+  },
+  "homepage": "https://github.com/jekrb/dom-node-transfer"
+}
